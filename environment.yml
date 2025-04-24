@@ -1,0 +1,11 @@
+name: /Users/minmyatpaing/Code/Courses/ML Course (A to Z)/env
+channels:
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+dependencies:
+  - python
+  - matplotlib
+  - numpy
+  - pandas
+  - scikit-learn
+prefix: /Users/minmyatpaing/Code/Courses/ML Course (A to Z)/env
