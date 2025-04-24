@@ -1,0 +1,13 @@
+name: C:\Users\minmy\Desktop\Courses\Python and ML\ML A to Z\Practice Projects\env
+channels:
+  - defaults
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+  - https://repo.anaconda.com/pkgs/msys2
+dependencies:
+  - python=3.11
+  - matplotlib
+  - numpy
+  - pandas
+  - ipykernel
+prefix: C:\Users\minmy\Desktop\Courses\Python and ML\ML A to Z\Practice Projects\env
